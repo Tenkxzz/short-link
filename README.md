@@ -1,8 +1,5 @@
 # short-link
-Tool berbasis Python yang berfungsi untuk mengacak nomor WhatsApp berdasarkan kode negara dan prefix tertentu.
-
-# acak-nomor
-Tool berbasis Python yang berfungsi untuk mengacak nomor WhatsApp berdasarkan kode negara dan prefix tertentu.
+Short Link Tools adalah skrip Python sederhana namun kuat untuk memperpendek URL panjang secara instan.
 
 ## ✨ Fitur Utama
 - User Friendly Interface: Tampilan menu yang bersih dan berwarnaq
