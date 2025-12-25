@@ -14,7 +14,7 @@ Short Link Tools adalah skrip Python sederhana namun kuat untuk memperpendek URL
 > Semua penggunaan kembali ke tanggung jawab user.
 
 ## 📸 Screenshots
-![alt text](?raw=true)
+![alt text](https://github.com/asta0x/short-link/blob/main/images/main_menu.jpg?raw=true)
 
 ## 🚀 Instalasi
 ```bash
